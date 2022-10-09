@@ -1,0 +1,195 @@
+.container {
+    display: -webkit-inline-flex;
+    display: inline-flex; 
+}
+.start{
+   background-color: rgb(245, 245, 245);
+   width: 150px;
+}
+.task1{
+   font-size: 150%;
+   margin-left: 10px;
+   margin-top: 15px;
+}
+.task2{
+   margin-left: 25px;
+   margin-top: 25px;
+}
+.board{
+   font-size: 150%;
+   margin-left: 20px;
+   margin-top: 15px;
+}
+.data{
+   display: flex;
+   flex-direction: row;
+}
+.block1{
+   width: 22%;
+   height: 105px;
+   background-color: rgb(255, 255, 255);
+   display: grid;
+   margin-left: 20px;
+   margin-top: 20px;
+}
+main{
+   background-color: rgb(235, 235, 235);
+}
+.block-1{
+   width: 253px;
+   height: 235px;
+   background-color: rgb(255, 255, 255);
+   display: grid;
+   margin-top: 35px;
+   font-size: 15px;
+   margin-left: 18px;
+}
+.block-2{
+   margin-left: 10px;
+   font-size: 10px;
+   margin-top: -5px;
+}
+.img1{
+   margin-left: 15px;
+   background-color: rgb(22, 177, 69);
+   width: 50px;
+   margin-top: -15px;
+}
+.img2{
+   margin-left: 15px;
+   background-color: rgb(238, 192, 41) ;
+   width: 50px;
+   margin-top: -15px;
+}
+.img3{
+   margin-left: 15px;
+   background-color: rgb(29, 57, 182);
+   width: 50px;
+   margin-top: -15px;
+}
+.img4{
+   margin-left: 15px;
+   background-color: rgb(182, 10, 82);
+   width: 50px;
+   margin-top: -15px;
+}
+.look{
+  margin-left: 110px;
+  margin-top:-20px;
+  font-size: 10px;
+}
+p{
+   font-size: 20px;
+   margin-top: -15px;
+   margin-left: 80px;
+}
+hr{
+   width: 85%;
+   margin-top: -3px;
+   height: 2px;
+}
+.inf{
+   font-size: 10px;
+   margin-left: 20px;
+}
+.jpg1{
+   width: 235px;
+   margin-left: 10px;
+   margin-top: -20px;
+   height: 150px;
+}
+.note{
+   margin-left: 10px;
+   font-size: 16px;
+}
+.alert{
+   margin-left: 10px;
+   font-size: 14px;
+}
+.block-3{
+   margin-left: 10px;
+   font-size: 15px;
+   margin-top: 30px;
+   background-color: rgb(252, 252, 252);
+   width: 380px;
+   margin-right: 10px;
+}
+.containe {
+   display: block;
+   position: relative;
+   padding-left: 35px;
+   margin-bottom: 12px;
+   cursor: pointer;
+   font-size: 15px;
+   user-select: none;
+}
+table{
+   font-size: 15px;
+   width: 100%;
+   height: 80%;
+   border-collapse: collapse;
+}
+table th{
+   border-bottom: 1px solid rgb(197, 197, 197);
+}
+table td{
+   border-bottom: 1px solid rgb(197, 197, 197); 
+}
+.stats{
+   background-color: rgb(238, 192, 41) ;
+   color: rgb(255, 255, 255);
+   margin-top: -15px;
+   margin-left: 10px;
+   width: 95%;
+   height: 50px;
+}
+.text{
+   font-size: 19px;
+   margin-left: 10px;
+}
+.menu{
+   background-color: rgb(29, 57, 182) ;
+   color: rgb(255, 255, 255);
+   margin-top: -15px;
+   margin-left: 10px;
+   width: 95%;
+   height: 50px;
+}
+button{
+   background-color: rgb(29, 57, 182);
+   color: rgb(255, 255, 255);
+   margin-top: 13px;
+   margin-left: 15px;
+   border-color: rgb(29, 57, 182);
+}
+.dropbtn {
+   background-color: #a12a49;
+   color: white;
+   padding: 16px;
+   font-size: 16px;
+   border: none;
+}
+.dropdown {
+   position: relative;
+   display: inline-block;
+}
+.mark{
+   display: -webkit-inline-flex;
+    display: inline-flex; 
+    margin-top: 20px;
+    font-size: 10px;
+}
+.mark1{
+   margin-left: 20px;
+}
+.mark2{
+   margin-left: 530px;
+}
+.task3{
+   background-color: rgb(182, 10, 82);
+   margin-left: 25px;
+   margin-top: 20px;
+   color: rgb(255, 255, 255);
+   width: 100px;
+   height: 30px;
+}
